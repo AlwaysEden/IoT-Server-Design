@@ -1,6 +1,8 @@
 # Designing IoT server Project2
 본 프로젝트는 기숙사 세탁기 예약 서비스를 제공함으로써 기숙사 거주 학생들에게 편리한 세탁 경험을 제공하는 것을 목표로 합니다.
 
+<a href= "https://github.com/AlwaysEden/IoT-Server-Design/blob/main/Doc/IoT%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%20Report.pdf">최종보고서 링크
+
 ## 환경설정
 ### 1. ESP8266개발환경
 (1) 
